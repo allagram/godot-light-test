@@ -1,1 +1,1 @@
-Example project to test window border collisions in portrait mode.
+Example project to test window additive lights.
